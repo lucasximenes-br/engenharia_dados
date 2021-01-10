@@ -1,6 +1,6 @@
 # engenheiro_dados
 
-A resolução do Desafio pode ser acessado através da URL: https://drive.google.com/drive/folders/1VSg1tupdx211rySKkP2mKuH2pO6jWfV-?usp=sharing ou da pasta src desse respositório.
+A resolução do Desafio pode ser acessado através da URL: https://drive.google.com/drive/folders/1VSg1tupdx211rySKkP2mKuH2pO6jWfV-?usp=sharing ou da pasta 'src' desse respositório.
 
 Nele contém:
 
